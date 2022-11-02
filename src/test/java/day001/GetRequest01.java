@@ -1,3 +1,5 @@
+package day001;
+
 import io.restassured.response.Response;
 import org.junit.Test;
 

@@ -1,3 +1,5 @@
+package day001;
+
 public class GetRequest03 {
 
        /* Matchers ile dataları doğrulayınız
@@ -7,4 +9,5 @@ public class GetRequest03 {
             "last_name": "Morris",
             "avatar": "https://reqres.in/img/faces/5-image.jpg"
      */
+
 }
